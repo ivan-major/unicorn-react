@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/unicorn-react/static/css/main.991af8a7.css",
-    "main.js": "/unicorn-react/static/js/main.a0f40999.js",
+    "main.js": "/unicorn-react/static/js/main.1e3a2020.js",
     "static/media/HKGrotesk-SemiBold.otf": "/unicorn-react/static/media/HKGrotesk-SemiBold.50deb08847b8a326a84a.otf",
     "static/media/HKGrotesk-Bold.otf": "/unicorn-react/static/media/HKGrotesk-Bold.031cc5f3a6785589af66.otf",
     "static/media/HKGrotesk-Regular.otf": "/unicorn-react/static/media/HKGrotesk-Regular.6638350d4b2b96867770.otf",
     "index.html": "/unicorn-react/index.html",
     "main.991af8a7.css.map": "/unicorn-react/static/css/main.991af8a7.css.map",
-    "main.a0f40999.js.map": "/unicorn-react/static/js/main.a0f40999.js.map"
+    "main.1e3a2020.js.map": "/unicorn-react/static/js/main.1e3a2020.js.map"
   },
   "entrypoints": [
     "static/css/main.991af8a7.css",
-    "static/js/main.a0f40999.js"
+    "static/js/main.1e3a2020.js"
   ]
 }
